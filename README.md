@@ -1,7 +1,5 @@
-# Tauri + Vanilla
+# Nextlauncher
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+A custom Minecraft: Java Edition launcher by Nextlayer, built with Tauri. Work in progress.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Nextlauncher is not an official Minecraft product. It is not approved by or associated with Mojang or Microsoft.
